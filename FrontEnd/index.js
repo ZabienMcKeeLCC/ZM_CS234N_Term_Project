@@ -1,1 +1,1 @@
-let list = ["john","likes","peepee"]
+let list = ["This","Test","Data"]
