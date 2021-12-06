@@ -1,0 +1,1 @@
+let list = ["john","likes","peepee"]
